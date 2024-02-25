@@ -2,7 +2,9 @@ idf_component_register(
     SRC_DIRS 
         "common/"
         "CycloneTCP/drivers/wifi"
+
         # "CycloneTCP/drivers/eth"
+
         "CycloneTCP/core"
         "CycloneTCP/dhcp"
         "CycloneTCP/dns"
